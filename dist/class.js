@@ -41,6 +41,4 @@ class MyHouse extends House {
 const key = new Key();
 const person = new Person(key);
 const house = new MyHouse(key);
-house.openDoor(person.showKey());
-house.comeIn(person);
 //# sourceMappingURL=class.js.map
